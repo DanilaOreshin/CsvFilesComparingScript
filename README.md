@@ -1,4 +1,4 @@
-## csv-comparer
+## CsvFilesComparingScript
 
 Script for comparing 2 files with .csv extantion
 
